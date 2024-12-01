@@ -1,0 +1,18 @@
+{
+    "name": "fernando/fizzbuzztests",
+    "description": "Suite of tests for fizzbuzz class",
+    "autoload": {
+        "psr-4": {
+            "Fernando\\Questionaire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fernando Ordóñez",
+            "email": "aferogobs@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
